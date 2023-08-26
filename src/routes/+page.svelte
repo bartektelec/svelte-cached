@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { cached } from '../lib';
+	import { cached } from '../lib/index.js';
 
 	const time = cached(Date.now(), async () => {
     const now = new Date();
