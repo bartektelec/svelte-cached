@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🖍️svelte-cached-store
-
-[Live Demo](https://bartektelec.github.io/svelte-cached-store/)
+# 🌟svelte-cached-store
 
 A simplified store for storing cached data.
 Useful for data that needs to keep in sync with it's source.
